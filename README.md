@@ -1,6 +1,5 @@
 # Gabriel
 ---
- main
 
 ## Dados Pessoais: 
 
@@ -12,7 +11,7 @@ Telefone: 95125843
 
 E-Mail: xxxxxxxxxxxx
 
-Experiencias
+
 ## Experiencia: 
 
 
