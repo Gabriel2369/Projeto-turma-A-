@@ -1,22 +1,20 @@
 # Gabriel
----
 
 ## Dados Pessoais: 
 
-CPF: 55484354684
+CPFxxxxxxx
 
-RG: 6659554
+RG:xxxxxxxxx
 
-Telefone: 95125843
+Telefone:xxxxxxxxx
 
-E-Mail: xxxxxxxxxxxx
+E-Mail:xxxxxxxxxxxx
 
 
 ## Experiencia: 
-
 
 - Desenhista 
 
 - Básico em informatica 
 
-- Ser legal :p
+- Ser legal 
