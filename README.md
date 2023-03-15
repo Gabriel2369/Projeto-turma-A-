@@ -7,4 +7,4 @@
 
 - Básico em informatica 
 
-- Montagem de hardware
+- Ser legal :p
